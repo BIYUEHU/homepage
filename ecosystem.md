@@ -39,7 +39,7 @@
 ### OneBot SDK
 
 - 【Rust】[onebot-walle/Walle](https://github.com/onebot-walle/Walle)
-- 【MoonBot】[biyuehu/moonbot](https://github.com/BIYUEHU/moonbot)
+- 【MoonBit】[biyuehu/moonbot](https://github.com/BIYUEHU/moonbot)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[AliceBotProject/alicebot](https://github.com/AliceBotProject/alicebot)
